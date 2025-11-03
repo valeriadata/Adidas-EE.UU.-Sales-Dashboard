@@ -19,7 +19,7 @@ El dashboard incluye filtros interactivos por año, región y categoría de prod
 ## Enlace interactivo
 
 Versión pública en Tableau Public:  
-https://public.tableau.com/app/profile/valeria.moreira/viz/AdidasEE_UU_/Dashboard
+- https://public.tableau.com/app/profile/valeria.moreira/viz/AdidasEE_UU_/Dashboard
 
 ---
 
@@ -65,8 +65,8 @@ https://www.kaggle.com/datasets/dcodernikhil1/adidas-sales-data
 ## Contacto
 
 **Valeria Moreira**  
-LinkedIn: https://www.linkedin.com/in/val%C3%A9riamoreira/
-Email: morera.valeria@gmail.com
+- LinkedIn: https://www.linkedin.com/in/val%C3%A9riamoreira/
+- Email: morera.valeria@gmail.com
 
 ---
 
