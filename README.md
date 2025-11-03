@@ -19,7 +19,7 @@ El dashboard incluye filtros interactivos por año, región y categoría de prod
 ## Enlace interactivo
 
 Versión pública en Tableau Public:  
-- https://public.tableau.com/app/profile/valeria.moreira/viz/AdidasEE_UU_/Dashboard
+-https://public.tableau.com/app/profile/valeria.moreira/viz/AdidasEE_UU_/Dashboard
 
 ---
 
