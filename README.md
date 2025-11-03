@@ -77,4 +77,4 @@ Diseñado siguiendo buenas prácticas de visualización, UX para dashboards y da
 ---
 
 
-![Dashboard](         )
+![Dashboard](https://github.com/valeriadata/Adidas-EE.UU.-Sales-Dashboard/blob/main/Adidas_EE.UU._Sales_Dashboard.png)
