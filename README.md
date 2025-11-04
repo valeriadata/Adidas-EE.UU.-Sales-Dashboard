@@ -55,14 +55,6 @@ https://www.kaggle.com/datasets/dcodernikhil1/adidas-sales-data
 
 ---
 
-## Cómo abrir el proyecto
-
-1. Clonar o descargar el repositorio.  
-2. Abrir el archivo `.twb` en Tableau Desktop.  
-3. Interactuar con los filtros y hojas del panel.
-
----
-
 ## Contacto
 
 **Valeria Moreira**  
